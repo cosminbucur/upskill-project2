@@ -1,4 +1,0 @@
-com\sda\finalproject\config\Config.class
-com\sda\finalproject\controller\WeatherInfoController.class
-com\sda\finalproject\service\FetchingService.class
-com\sda\finalproject\repository\WeatherRepository.class
