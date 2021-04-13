@@ -9,7 +9,7 @@ public class Main {
     private String humidity;
     @JsonProperty("temp_min")
     private String tempMin;
-    @JsonProperty("temp_min")
+    @JsonProperty("temp_max")
     private String tempMax;
 
     public String getTemp() {
